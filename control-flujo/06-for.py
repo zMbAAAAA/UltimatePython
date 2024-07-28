@@ -6,3 +6,9 @@ for numero in range(11):
         break
 else:
     print("no encontré el número buscado :(")
+
+# for usuario in usuarios:
+#     usuario.id
+
+for char in "Ultimate Python":
+    print(char)
